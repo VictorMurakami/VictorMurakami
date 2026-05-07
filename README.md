@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/VictorMurakami?tab=repositories"><img src="https://img.shields.io/badge/Repos-Ver%20todos-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/vitinmrkm"><img src="https://img.shields.io/badge/X-@vitinmrkm-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/victormurakami"><img src="https://img.shields.io/badge/LinkedIn-victormurakami-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:victorsmurakami@gmail.com"><img src="https://img.shields.io/badge/Email_pessoal-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="mailto:victor.murakami@datacake.com.br"><img src="https://img.shields.io/badge/Email_trabalho-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
 </p>
