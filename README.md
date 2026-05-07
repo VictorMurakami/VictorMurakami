@@ -98,7 +98,9 @@
       </h4>
       <p>App mobile de conscientização sobre queimaduras voltado ao <strong>público infantil</strong>. Publicado na <strong>Google Play</strong>.</p>
       <p>
-        <sub><strong>Papel:</strong> Front-end · <strong>Stack:</strong> React Native</sub>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/download.svg?color=%23ffffff"/><img src="https://api.iconify.design/lucide/download.svg?color=%23000000" width="14" height="14"/></picture>
+        &nbsp;<a href="https://play.google.com/store/apps/details?id=br.edu.unisagrado.burnquest">Baixar na Google Play</a><br/>
+        <sub><strong>Papel:</strong> Front-end · <strong>Stack:</strong> Flutter</sub>
       </p>
     </td>
     <td width="50%" valign="top">
