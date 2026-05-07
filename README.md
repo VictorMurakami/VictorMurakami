@@ -70,6 +70,7 @@
         &nbsp;<a href="https://github.com/VictorMurakami/Verifica">Verifica</a>
       </h4>
       <p>Web app <strong>open-source</strong> que usa <strong>IA</strong> para identificar indícios de <em>fake news</em> em textos e matérias jornalísticas. Em produção.</p>
+      <p></p>
       <p>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/globe.svg?color=%23ffffff"/><img src="https://api.iconify.design/lucide/globe.svg?color=%23000000" width="14" height="14"/></picture>
         &nbsp;<a href="https://ai-verifica.vercel.app">ai-verifica.vercel.app</a><br/>
@@ -121,12 +122,9 @@
 </h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorMurakami&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMurakami&layout=compact&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorMurakami&theme=github_dark"/>
 </p>
-
----
-
 <p align="center">
-  <em>"Código que resolve problemas reais, lê bem e dorme tranquilo em produção."</em>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorMurakami&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorMurakami&theme=github_dark"/>
 </p>
