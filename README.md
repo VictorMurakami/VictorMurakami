@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Victor 👋</h1>
 
-<!--
-**VictorMurakami/VictorMurakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Mobile & Full-stack Developer</strong> · React Native · TypeScript · Next.js · Node.js
+  <br/>
+  <em>Construindo apps multi-cliente em produção na <a href="https://datacake.com.br">Datacake</a>.</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/VictorMurakami?tab=repositories"><img src="https://img.shields.io/badge/Repos-Ver%20todos-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/vitinmrkm"><img src="https://img.shields.io/badge/X-@vitinmrkm-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="mailto:victor.murakami@datacake.com.br"><img src="https://img.shields.io/badge/Email-contato-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre
+
+- 📍 Lençóis Paulista, SP — Brasil
+- 🛠️ Desenvolvedor **mobile & web** com foco em **React Native + Expo** e **Next.js / Node.js**, atuando em apps multi-cliente em produção
+- 🤝 Colaboro em iniciativas educacionais e sociais: **Cursinho Popular Jaú**, **Burn-Quest** e **Projeto Rotas**
+- 🧠 Interesse forte em **IA aplicada**, arquitetura de software e produtos com impacto real
+
+---
+
+### 🧰 Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Portfólio
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/VictorMurakami/Verifica">Verifica</a></h4>
+      <p>Web app <strong>open-source</strong> que usa <strong>IA</strong> para identificar indícios de <em>fake news</em> em textos e matérias jornalísticas. Em produção.</p>
+      <p>
+        🌐 <a href="https://ai-verifica.vercel.app">ai-verifica.vercel.app</a><br/>
+        <sub><strong>Papel:</strong> Criador · <strong>Stack:</strong> Next.js · TypeScript · IA</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://github.com/Cursinho-Popular-Jau">Cursinho Popular Jaú</a></h4>
+      <p>Plataforma educacional completa: landing page, painel administrativo com tabelas relacionais em cascata e armazenamento de mídias no R2. Em produção.</p>
+      <p>
+        🌐 <a href="https://cursinhopopularjau.com">cursinhopopularjau.com</a><br/>
+        <sub><strong>Papel:</strong> Full-stack · <strong>Stack:</strong> Next.js · Node.js · Cloudflare R2</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔥 <a href="https://github.com/Burn-Quest">Burn-Quest</a></h4>
+      <p>App mobile de conscientização sobre queimaduras voltado ao <strong>público infantil</strong>. Publicado na <strong>Google Play</strong>.</p>
+      <p>
+        <sub><strong>Papel:</strong> Front-end · <strong>Stack:</strong> React Native</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚐 <a href="https://github.com/Projeto-Rotas">Projeto Rotas</a></h4>
+      <p>Sistema de gerenciamento de rotas, motoristas, automóveis, horários e passageiros — app mobile + back-end.</p>
+      <p>
+        <sub><strong>Papel:</strong> Full-stack · <strong>Stack:</strong> React Native · Spring Boot</sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorMurakami&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMurakami&layout=compact&hide_border=true&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <em>"Código que resolve problemas reais, lê bem e dorme tranquilo em produção."</em>
+</p>
