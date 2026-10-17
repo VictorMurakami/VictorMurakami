@@ -75,7 +75,7 @@
       <p></p>
       <p>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/globe.svg?color=%23ffffff"/><img src="https://api.iconify.design/lucide/globe.svg?color=%23000000" width="14" height="14"/></picture>
-        &nbsp;<a href="https://ai-verifica.vercel.app">ai-verifica.vercel.app</a><br/>
+        &nbsp;<a href="https://verifica.kaorabr.com">verifica.kaorabr.com</a><br/>
         <sub><strong>Papel:</strong> Criador · <strong>Stack:</strong> Next.js · TypeScript · IA</sub>
       </p>
     </td>
